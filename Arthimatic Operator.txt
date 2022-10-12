@@ -1,0 +1,63 @@
+1) Addition Operator
+val1 = 2
+val2 = 3
+res = val1 + val2
+print(res)
+
+Output:
+5
+
+2)Subtraction Operator
+val1 = 2
+val2 = 3
+res = val1 - val2
+print(res)
+
+Output:
+-1
+
+3)Multiplication Operator
+val1 = 2
+val2 = 3
+res = val1 * val2
+print(res)
+
+Output:
+6
+
+4)Division Operator
+val1 = 3
+val2 = 2
+res = val1 / val2
+print(res)
+
+Output:
+1.5
+
+5)Modulus Operator
+val1 = 3
+val2 = 2
+res = val1 % val2
+print(res)
+
+Output:
+1
+
+6)Exponentiation Operator
+val1 = 2
+val2 = 3
+res = val1 ** val2
+print(res)
+
+Output:
+8
+
+8)Floor division
+val1 = 3
+val2 = 2
+res = val1 // val2
+print(res)
+
+Output:
+1
+
