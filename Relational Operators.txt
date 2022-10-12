@@ -1,0 +1,36 @@
+operand1 = 89
+operand2 = 569 
+print(operand1 > operand2)
+
+Output:
+False
+
+operand1 = 89
+operand2 = 569 
+print(operand1 < operand2)
+
+Output:
+False
+
+operand1 = 65
+operand2 = 56  
+print(operand1 == operand2)
+
+Output:
+False
+
+operand1 = 659
+operand2 = 569 
+print(operand1 != operand2)
+
+Output:
+True
+
+operand1 = 659
+operand2 = 569  
+print(operand1 >= operand2)
+
+Output:
+True
+
+
